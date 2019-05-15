@@ -136,7 +136,7 @@ class xatBotStat:
 			"k": self.key
 		})
 		for k, v in values.items():
-			result += "&" + k + "=" + v
+			result += "&" + k + "=" + str(v)
 		final = self.getSite("https://xat.com/api/botstat.php?" + result)
 		load = json.loads(final[1])
 		if load["error"] == True:
