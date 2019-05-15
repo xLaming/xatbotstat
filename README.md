@@ -21,7 +21,7 @@ This is a tool for xat users, with it you can do a lot of external tools for you
 3. Update settings, and you will see your API key
 
 # Version:
-* 1.0
+* 1.1
 
 # Author:
 * Paulo (aka xLaming)
