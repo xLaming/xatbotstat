@@ -5,6 +5,7 @@ This is a tool for xat users, with it you can do a lot of external tools for you
 # Available commands:
 * date
 * clock
+* steam
 * randomavatar
 * setname
 * setavatar
@@ -21,7 +22,7 @@ This is a tool for xat users, with it you can do a lot of external tools for you
 3. Update settings, and you will see your API key
 
 # Version:
-* 1.2
+* 1.3
 
 # Author:
 * Paulo (aka xLaming)
